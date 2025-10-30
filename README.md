@@ -17,14 +17,14 @@ Note that this library is a part of our main project, and it is several versions
 * Original versioning history,  and internal discussions, including some in-code comments, are removed in this open-sourced edition. These contains our unimplemented ideas, some of which will very likely become the foundations of our future publications
 
 ## Platform Support
-Python 3.5+ in windows and Python 2.7+/3.5+ in linux are supported.
+Python 3.10.0 in windows.
 
 ## Dependencies
 Install Dependencies via `pip install -r requirements.txt`
 
-* tensorflow (>= 1.0.0)
-* tflearn
-* pandas
+* tensorflow 2.10.1
+* tflearn 0.5.0
+* pandas 1.5.3
 * ...
 
 ## User Guide
